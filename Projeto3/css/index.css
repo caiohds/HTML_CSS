@@ -1,0 +1,149 @@
+#div1{
+    text-align: center;
+    color: white;
+    padding-left: 10%;
+    padding-top: 30px;
+}
+#fig1{
+  
+    background-image: url('../img/oceano.jpg');
+    background-position: center;
+    color: white;
+    text-align: center;
+    height: 50vh;
+    background-size: cover;
+}
+#btn1{
+    background-color:slateblue;
+    width: 120px;
+    height: 40px;
+ 
+}
+#btn2{
+    color: white;
+    background-color:transparent;
+    width: 120px;
+    height: 40px;
+ 
+}
+#fig2{
+    width: 350px;
+    height: 350px;
+    
+}
+#c2{
+    padding-top: 70px;
+}
+#t1{
+    padding-bottom: 10px;
+   
+}
+#btn3{
+    background-color:slateblue;
+    width: 200px;
+    height: 40px;
+}
+#btn4{
+    background-color:slateblue;
+    width: 150px;
+    height: 40px;
+}
+#col1{
+    padding-left: 100px;
+}
+#c3{
+    padding-top: 70px;
+    padding-bottom: 30px;
+    
+}
+#c4{
+    background-image: url('../img/paisagem.jpg');
+    background-position: center;
+    color: white;
+    text-align: center;
+    height: 50vh;
+    background-size: cover;
+    
+}
+#col10{
+    margin-top: 70px;
+
+
+   
+}
+#cc{
+    padding-bottom: 30px;
+}
+#cor{
+
+background-color: whitesmoke;
+}
+#col55{
+ 
+    padding-bottom: 50px;
+}
+#p1{
+    text-align: justify;
+}
+#t30{
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+#p2{
+ text-align: justify;
+}
+#bgi{
+    background-image: url('../img/navio.jpg');
+    background-position: center;
+   
+    text-align: center;
+    padding-bottom: 300px;
+    padding-top: 300px;
+    margin-bottom: 40px ;
+    background-size: cover;
+}
+#cor1{
+    background-color: whitesmoke;
+}
+#img40{
+    background-image: url('../img/navio.jpg');
+    background-position: center;
+    width: 180px;
+    height: 180px;
+
+ 
+    background-size: cover;
+
+}
+#img41{
+    background-image: url('../img/comp.jpg');
+    background-position: center;
+    width: 180px;
+   height: 180px;
+    background-size: cover;
+}
+#img42{
+    background-image: url('../img/ocean.jpg');
+    background-position: center;
+    width: 180px;
+   height: 180px;
+    background-size: cover;
+}
+#img43{
+    background-image: url('../img/paisagem.jpg');
+    background-position: center;
+   width: 180px;
+   height: 180px;
+    background-size: cover;
+}
+footer{
+    text-align: right;
+    background-color:#212121 ;
+    width: 100%;
+  
+    padding-bottom: 10px;
+    color: white;
+}
+#foot{
+    padding-right: 150px;
+}
