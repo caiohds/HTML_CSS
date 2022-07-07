@@ -1,0 +1,14 @@
+.jumbotron {
+    background-color: #fff;
+    margin-bottom: 0;
+}
+
+.bg-secondary {
+    background-color: rgb(192, 189, 189) !important;
+}
+
+main {
+    border-top: 1px solid #ccc;
+    padding: 10px 0;
+
+}

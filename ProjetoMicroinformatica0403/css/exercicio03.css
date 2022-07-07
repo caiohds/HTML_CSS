@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif,Verdana, Geneva, Tahoma;
+}
+header{
+    font-size: 50px;
+
+    padding:0;
+        width: 80%;
+    margin: 0 auto;
+}
+main{
+ width: 80%;
+ margin: 0 auto;
+padding-bottom: 15px;
+}
+main h3{
+    border-top: 1px solid green;
+    border-bottom: 1px solid green;
+    text-align: right;
+   color: red;
+}
+main h4{
+    text-align: right;
+}
+main p{
+    padding-bottom: 15px;
+    text-align: center;
+}
+footer{
+    width: 80%;
+    margin: 0 auto;
+
+}
+footer h2{
+    color:cyan;
+text-align: right;
+border-top: 1px solid red;
+border-bottom: 1px solid red;
+}
+.produtoA{
+text-align: right;
+color: green;
+}
+.a{
+    color: green;
+    text-align: right;
+  
+   padding-bottom: 20px;
+   width: 50%;
+   margin: 0 auto;
+   /* border-bottom: 1px solid black;*/
+}
+.b{
+    color: red;
+    text-align: center;
+  /* border-bottom: 1px solid black;*/
+   padding-bottom: 20px;
+   width: 50%;
+   margin: 0 auto;
+    
+}
+.c{
+    color:cornflowerblue;
+    text-align: justify;
+    width: 50%;
+    margin: 0 auto;
+  
+    
+}
+
+.ProdutoB{
+    text-align: center;
+    color:red;
+    }
+    .ProdutoC{
+        color:cornflowerblue;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        }
+

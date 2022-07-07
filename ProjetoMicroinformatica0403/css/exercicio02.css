@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif,Verdana, Geneva, Tahoma;
+}
+header{
+    padding: 25px;
+}
+header h2{
+    font-size: 20px;
+    padding-bottom: 5px;
+    width: 80%;
+    margin: 0 auto;
+ 
+}
+
+main h2{
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+}
+main h4{
+    text-align: right;
+    padding-bottom: 25px;
+}
+main{
+    width: calc(80% - 30px);
+    margin: 0 auto;
+  
+}
+footer{
+    width: calc(80% - 30px);
+    margin: 0 auto;
+}
+footer h2{
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+}
+.paragrafo{
+    padding-bottom: 90px;
+}
+footer h4{
+    text-align:right;
+}
+

@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif,Verdana, Geneva, Tahoma;
+}
+header{
+    padding: 25px;
+}
+header h3{
+    font-size: 15px;
+    padding-bottom: 5px;
+}
+header h1{
+    padding-bottom: 15px;
+}
+.cabecalho{
+    width: 80%;
+    margin: 0 auto;
+    border-bottom: 1px solid gray;
+}
+main{
+    width: calc(80% - 30px);
+    margin: 0 auto;
+    text-align: justify;
+}
+main p{
+    padding-top: 5px;
+    padding-bottom: 10px;
+    text-indent: 50px;
+}
+figure{
+    border: 2px;
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+}
+.fig{
+    width:100%;
+}
